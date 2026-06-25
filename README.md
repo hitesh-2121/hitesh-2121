@@ -3,7 +3,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" width="100%" alt="Hitesh Banner">
+  <img src="https://github.com/hitesh-2121/hitesh-2121/blob/main/ChatGPT%20Image%20Jun%2025%2C%202026%2C%2007_07_59%20PM.png" width="100%" alt="Hitesh Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Hitesh</h1>
